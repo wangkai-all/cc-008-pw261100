@@ -1,0 +1,5 @@
+[
+  {"external_id": "T201", "name": "李娜", "phone": "13933334444", "email": "lina.gz@example.com", "address": "广州市天河区体育西路10号"},
+  {"external_id": "T202", "name": "王芳", "phone": "13588889999", "email": "wfang@example.com", "address": "杭州市西湖区文三路100号2幢302室"},
+  {"external_id": "T203", "name": "陈强", "phone": "13777778888", "email": "Chen.Qiang@other.com", "address": "深圳市福田区华强北路20号", "email_verified": true}
+]
